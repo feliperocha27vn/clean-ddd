@@ -20,9 +20,6 @@
       "recommended": true,
       "a11y": {
         "useKeyWithClickEvents": "off"
-      },
-      "complexity": {
-        "noUselessConstructor": "off"
       }
     }
   },

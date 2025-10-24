@@ -14,7 +14,7 @@ test('Create an answer', async () => {
 
   const answer = await answerQuestion.execute({
     questionId: 'question-1',
-    studentId: 'student-1',
+    instructorId: 'instructor-1',
     content: 'This is an answer.',
   })
 
